@@ -1,3 +1,5 @@
+This repository was forked (then detached) by Stuart Geiger from the Minimal Mistakes Jekyll Theme, which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by Robert Zupko and additional maintainers would be welcomed.
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
