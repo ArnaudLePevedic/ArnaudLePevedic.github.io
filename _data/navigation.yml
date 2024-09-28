@@ -6,7 +6,7 @@
 
 main:
   - title: "News"
-    url: /year-archive/
+    url: /news/
 
   - title: "Publications"
     url: /publications/
@@ -14,8 +14,6 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "CV"
     url: /cv/
