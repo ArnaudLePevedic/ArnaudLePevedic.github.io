@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV in PDF form.](https:///files/.pdf)
+My CV in [PDF](https:///files/.pdf) form.
 
 Work experience
 ======
@@ -20,7 +20,7 @@ Work experience
 
   Education
 ======
-* Ph.D in Physics of the environment, University of Bordeaux, France, 2024
+* Ph.D in Physics of the Environment, University of Bordeaux, France, 2024
 * Master's-level courses in Ocean, Coastal and River engineering, Politecnico di Milano, Italy, 2018-2019
 * M.S. in Fluid mechanics engineering, ENSIAME, France, 2016-2019
 * Preparatory class in Theoretical and Mathematical Physics, Lycée Saint Louis, France, 2014-2016
