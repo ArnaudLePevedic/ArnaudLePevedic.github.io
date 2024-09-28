@@ -18,7 +18,7 @@ Work experience
 * Coastal Oceanographer Intern, eCoast Marine Consulting and Research, Raglan, New Zeland, Fev. - Aug. 2019
 * Coastal Ocenaographer Intern, The University of Queensland, Brisbane, Australia, Sep. 2017 - Jan. 2018
 
-  Education
+Education
 ======
 * Ph.D in Physics of the Environment, University of Bordeaux, France, 2024
 * Master's-level courses in Ocean, Coastal and River engineering, Politecnico di Milano, Italy, 2018-2019
