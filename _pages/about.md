@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a coastal scientist and numerical modeller in the [School of Palaeography and Oceanography (EPOC)]() at the [University of Bordeaux]().
+I am a coastal scientist and numerical modeller in the [School for Oceanic and Continental Environments (EPOC)](https://www.epoc.u-bordeaux.fr/) at the [University of Bordeaux](https://www.u-bordeaux.fr/).
 
 My researches aim to answer environmental questions regarding the transport of microplastics and the influence of seagrass decline on the physics of the ocean.
 
