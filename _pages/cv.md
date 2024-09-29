@@ -21,6 +21,6 @@ Work experience
 Education
 ======
 * Ph.D in Physics of the Environment, University of Bordeaux, France, 2024
-* Master's-level courses in Ocean, Coastal and River engineering, Politecnico di Milano, Italy, 2018-2019
+* Master's-level courses in Ocean, Coastal and River engineering, Politecnico di Milano, Italy, Sep. 2018 - Fev. 2019
 * M.S. in Fluid mechanics engineering, ENSIAME, France, 2016-2019
 * Preparatory class in Mathematics and Physics, Lycée Saint Louis, France, 2014-2016
